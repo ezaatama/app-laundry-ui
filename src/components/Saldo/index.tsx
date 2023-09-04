@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.29,
     shadowRadius: 4.65,
     elevation: 7,
-    marginTop: -WINDOW_HEIGHT * 0.05,
+    marginTop: -WINDOW_HEIGHT * 0.07,
     flexDirection: 'row'
   },
   text: {
