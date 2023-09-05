@@ -1,6 +1,6 @@
 import {StyleSheet, Text, TouchableOpacity, Image, View} from 'react-native';
 import React from 'react';
-import {IconOrderActive} from '../../assets';
+import { IconOrderActive } from '../../assets';
 import { COLOR_PRIMARY, COLOR_WARNING, WINDOW_HEIGHT, WINDOW_WIDTH } from '../../utils/constant';
 
 const PesananActive = ({title, status} : {title:any, status:any}) => {
